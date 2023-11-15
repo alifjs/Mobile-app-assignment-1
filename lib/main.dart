@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:todo_app_iub/tasks_screen.dart';
-// import 'package:todo_app_iub/sir_code.dart';
-// import 'package:todo_app_iub/new_code.dart';
 
 void main() {
   runApp(const MyApp());
