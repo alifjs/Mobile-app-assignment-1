@@ -1,17 +1,1 @@
-![Screenshot_1700067362](https://github.com/alifjs/Mobile-app-assignment-1/assets/92691751/19894efc-da90-417c-9009-cd90bf2feece)# todo_app_iub
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 ![Screenshot_1700067362](https://github.com/alifjs/Mobile-app-assignment-1/assets/92691751/5c1dc711-5ad0-49f5-b792-e869da64db7a)
